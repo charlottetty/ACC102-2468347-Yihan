@@ -37,3 +37,6 @@ This project builds a binary classification model to predict whether a borrower 
 1. Clone this repository
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook: `acc102_modifiedfinally.ipynb`
+
+## Author
+[Yihan.Tang] – [2468347] – ACC102 Mini Assignment, Track 2
