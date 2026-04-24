@@ -34,12 +34,13 @@ This project builds a binary classification model to predict whether a borrower 
 3. Run the Jupyter Notebook: `acc102_modifiedfinally.ipynb`
 
 ## 6. Product Link / Demo
-- **GitHub Repository**: [Insert your repo link here]
-- **Demo Video**: [Insert Mediasite link here]
+- **GitHub Repository**: [https://github.com/charlottetty/ACC102-2468347-Yihan)]
 
 ## 7. Limitations & Next Steps
 - **Limitations**: No temporal information in dataset; only two simple models tested; correlation does not imply causation
 - **Next Steps**: Test ensemble methods (Random Forest, XGBoost); add cost-benefit analysis for threshold tuning; collect more granular borrower data
 
 ## Author
-[Yihan.Tang] – [2468347] – ACC102 Mini Assignment, Track 2
+[Yihan.Tang] – 
+student id：[2468347] – 
+track choice：ACC102 Mini Assignment, Track 2
